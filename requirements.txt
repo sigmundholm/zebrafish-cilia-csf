@@ -1,0 +1,15 @@
+
+adios4dolfinx
+numpy
+matplotlib
+pyvista
+scipy
+pandas
+seaborn
+colormaps
+meshio
+tabulate
+vtk
+mpich
+# petsc
+# petsc4py
